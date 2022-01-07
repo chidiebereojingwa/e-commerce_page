@@ -12,7 +12,8 @@ const Container = styled.div`
 `;
 
 const Announcement = () => {
-  return <Container>Super Deal! Free Shipping on Orders Over N50,000</Container>;
+  return <Container>Just incase you don't see your needed Item just click on the SEND US ANY ERRAND button to send us your errand</Container>;
+
 };
 
 export default Announcement;

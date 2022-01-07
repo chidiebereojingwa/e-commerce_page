@@ -130,7 +130,7 @@ const Footer = () => {
           <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
         </ContactItem>
         <ContactItem>
-          <Phone style={{marginRight:"10px"}}/> +1 234 56 78
+          <Phone style={{marginRight:"10px"}}/> 0814-557-7881 
         </ContactItem>
         <ContactItem>
           <MailOutline style={{marginRight:"10px"}} /> contact@lama.dev
