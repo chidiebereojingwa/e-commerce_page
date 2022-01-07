@@ -2,8 +2,8 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://pbs.twimg.com/media/D0bXv64WsAAxjJb.jpg",
-      title: "SUMMER SALE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "FRESH TOMATOTOES FROM THE FARM",
+      desc: "DON'T COMPROMISE ON QAULITY POCKET FRIENDLY! SAFE 30% FLAT BY BUYING DIRECT FROM FARMERS .",
       bg: "f5fafd",
     },
     {
@@ -15,7 +15,7 @@ export const sliderItems = [
     },
     {
       id: 3,
-      img: "https://i.ibb.co/cXFnLLV/3.png",
+      img: "https://pictures-nigeria.jijistatic.com/55294686_prawns-6_960x1280.jpg",
       title: "LOUNGEWEAR LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
