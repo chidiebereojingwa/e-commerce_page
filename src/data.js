@@ -8,7 +8,7 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: "https://i.ibb.co/DG69bQ4/2.png",
+      img: "https://www.nairaland.com/attachments/7757111_fbimg1536752090526_jpega90ab62e764d1f1e6c23d6888452c340",
       title: "AUTUMN COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
