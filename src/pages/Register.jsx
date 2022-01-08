@@ -68,8 +68,7 @@ const Register = () => {
           <Input placeholder="confirm password" />
           <Agreement>
             Just send us any errand
-            By creating an account, I consent to the processing of my personal
-            data in accordance with the <b>PRIVACY POLICY</b>
+            Note: Some of the price to this items will be comfirmed first <b>PRIVACY POLICY</b>
           </Agreement>
           <Button>CREATE</Button>
         </Form>
