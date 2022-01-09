@@ -67,8 +67,8 @@ const Register = () => {
           <Input placeholder="password" />
           <Input placeholder="confirm password" />
           <Agreement>
-            Just send us any errand
-            Note: Some of the price to this items will be comfirmed first <b>PRIVACY POLICY</b>
+            We are here to serve you better
+        EASYSEND MAKES LIFE EASY FOR YOU <b>PRIVACY POLICY</b>
           </Agreement>
           <Button>CREATE</Button>
         </Form>
