@@ -84,7 +84,7 @@ const Navbar = () => {
           <Logo>EASYSEND.</Logo>
         </Center>
         <Right>
-        <MenuItem>CLICK TO SEND US AN ERRAND</MenuItem>
+        <MenuItem>CLICK TO SEND US ANY ERRAND</MenuItem>
           <MenuItem>REGISTER</MenuItem>
           <MenuItem>SIGN IN</MenuItem>
           <Link to="/cart">
