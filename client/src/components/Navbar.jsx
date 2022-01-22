@@ -8,6 +8,7 @@ import { Link } from "react-router-dom";
 
 const Container = styled.div`
   height: 60px;
+  color: darkgreen;
   ${mobile({ height: "50px" })}
 `;
 
@@ -17,6 +18,7 @@ const Wrapper = styled.div`
   align-items: center;
   justify-content: space-between;
   ${mobile({ padding: "10px 0px" })}
+ 
 `;
 
 const Left = styled.div`
