@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
+      img: "https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/Online%20grocery%20webinar-GettyImages-1165215193.jpg?itok=3evlZYk8",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
